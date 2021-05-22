@@ -14,7 +14,7 @@ Como o projeto utiliza de requisições HTTP via fetch, é necessário rodar o p
 
 ```bash
 # clone este repositório
-$ git clone <https://github.com/Gab-Barros/insure.git>
+$ git clone <https://github.com/Gab-Barros/animais-fantasticos.git>
 
 # instale o plugin Live Server no seu VSCode
 
